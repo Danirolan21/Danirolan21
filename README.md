@@ -98,7 +98,9 @@ Soy un desarrollador con una gran curiosidad técnica y muchas ganas de seguir a
 
 ✨ Si algo de lo que ves aquí te interesa, no dudes en contactarme o seguirme. ¡Siempre estoy abierto a nuevos retos y colaboraciones interesantes!
 
-![snake gif](https://github.com/Danirolan21/Danirolan21/raw/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Danirolan21/Danirolan21/raw/output/github-snake-dark.svg" alt="snake gif"/>
+</p>
 
 ---
 
