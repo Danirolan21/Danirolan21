@@ -76,6 +76,14 @@ Soy un desarrollador con una gran curiosidad técnica y muchas ganas de seguir a
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danirolan21&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danirolan21&layout=compact&theme=tokyonight)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Danirolan21?pet-id=711265283763620615"
+    width="600"
+    height="120"
+  />
+</a>
+
 ---
 
 ## 📫 Conecta conmigo
