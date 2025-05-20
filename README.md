@@ -90,7 +90,7 @@ Soy un desarrollador con una gran curiosidad técnica y muchas ganas de seguir a
 
 [![LinkedIn](https://img.shields.io/badge/-Daniel%20Rodríguez%20Lancha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodriguez-lancha)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danirolan21@hotmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/af76932b04ce206f/EUhZk6HMIz1HmCmtuD6J3ZsB9SzKaS1Ce-KdgzVY3lpMBA?e=JoqUQA)
+[![CV](https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/af76932b04ce206f/EaUPap4e07BJrFAodln2ob8BvjkXsbVFWJCawMWQK-nBXw?e=xvOzMU)
 
 ---
 
