@@ -85,8 +85,8 @@ Acabo de finalizar una etapa clave como **Desarrollador Full Stack** en **Netche
 ## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-Daniel%20Rodríguez%20Lancha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodriguez-lancha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danirolan21@hotmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://1drv.ms/b/c/af76932b04ce206f/IQCD1qjmJPAYRao6L82uDENuAZPlyh9x1kO8fModK_l19Rw?e=5JX8Un)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielrodriguezlancha@gmail.com)
+[![CV](https://img.shields.io/badge/CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1zgUy-5sYCpAQBDiummWiJedh3toMnYDF/view?usp=sharing)
 
 ---
 
